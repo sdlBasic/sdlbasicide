@@ -1,0 +1,1 @@
+./wxbasicscript sdlbasicide.wxb
