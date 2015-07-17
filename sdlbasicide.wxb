@@ -1,9 +1,6 @@
 ' Simple IDE for wxBasic
 ' (c) 2004 David Cuny
-'
-' This file also requires IDE_TIPS.TXT, which contains the prototypes
-'   for wxWidgets routines
-'
+
 ' TO DO HINTS:
 '
 ' - inheritance: add if it's not in the list yet
