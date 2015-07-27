@@ -1,0 +1,9 @@
+Const ID_SUBLIST_SHOW = 1001,
+	  ID_SUBLIST_HIDE = 1002,
+      ID_RUN          = 1003,     ' run the edited program
+      ID_TRACE        = 1004,     ' run with the -trace option
+      ID_FIND         = 1005,     ' search/find
+      ID_REPEAT       = 1006,     ' search/repeat
+      ID_REPLACE      = 1007      ' search/replace
+	   
+Dim wxID_ED = 5000
